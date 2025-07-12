@@ -71,7 +71,7 @@ A lightweight PyTorch implementation of Prototypical Networks using a ViT-Small/
 
 ---
 
-## Data Preparation
+## 📥 Data Preparation
 
 1. **Download**
    You must obtain the original benchmarks yourself (e.g. from official sources or Kaggle).
